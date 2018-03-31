@@ -1,0 +1,6 @@
+#folder .idea, bower_components, bower.json, config.codecit3
+.idea/
+bower_components/
+bower.json
+
+config.codekit3
